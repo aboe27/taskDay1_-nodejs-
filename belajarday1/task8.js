@@ -1,6 +1,6 @@
 function kuadrat(n, q) {
-    if (q > 1) {
-        return n * kuadrat
+    if (n > 1 && q > 1) {
+        return n * kuadrat(n,q-1)
     }
     return n
 }
