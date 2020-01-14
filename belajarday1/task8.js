@@ -5,3 +5,4 @@ function kuadrat(n, q) {
     return n
 }
 console.log(kuadrat(5, 3))
+console.log(kuadrat(3, 3))
