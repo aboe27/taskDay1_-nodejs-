@@ -1,5 +1,7 @@
 //task 1
 // -poin 1
+
+// indentasi gak rapih
     var add = (num1, num2) => {
         return add=num1 + num2
     }
