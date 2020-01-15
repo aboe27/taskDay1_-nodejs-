@@ -1,3 +1,4 @@
+// di map & filter belum arow function
 var tripleAndFilter = arr =>{
     return arr.map(function(value){
         return value * 3;
